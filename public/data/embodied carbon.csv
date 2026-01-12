@@ -1,0 +1,10 @@
+﻿Material,Embodied Carbon (kg CO₂e / kg),Indonesian Context & Nuances
+Concrete,0.13,"User-defined value (previously 0.107 – 0.13). High cement content standard mix."
+Brick (Red),0.4,"User-defined value (previously 0.22 – 0.30)."
+Brick (AAC),0.55,"""Bata Ringan"" (Hebel). Retained upper bound."
+Wood,0.81,"User-defined value (previously 0.45 – 0.81). Represents higher end (Plywood)."
+Steel,2.8,"User-defined value (previously 1.31 – 2.80). Represents Blast Furnace/Structural Steel."
+Glass,1.1,"User-defined value (previously 0.86 – 1.10)."
+Plastics,3.2,"User-defined value (previously 2.50 – 3.20)."
+Aluminium,12,"User-defined value (previously 8.0 – 12.0). Represents Virgin Aluminium."
+Copper,3.8,"User-defined value (previously 2.7 – 3.8)."

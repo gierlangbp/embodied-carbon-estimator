@@ -1,0 +1,97 @@
+﻿material,function,structure,R5_32,R5,raw_HF_db_count,increment_iterations,incremented_count,p_0,p_5,p_25,p_50,p_75,p_95,p_100
+concrete,non-residential,reinforced concrete structure,ASIA_IDN,ASIA,0,1,40,140.25,174.757,687.4128341,1062.485,1609.25,1947.355,2694.07
+concrete,residential multi-family,reinforced concrete structure,ASIA_IDN,ASIA,0,2,54,0,392.5,791.3,1067.75,1292.345466,2069.5,2729.510388
+concrete,residential single family,reinforced concrete structure,ASIA_IDN,ASIA,0,2,56,0,280,478.41,980,1237.75,2051.4,2730
+concrete,non-residential,masonry structure,ASIA_IDN,ASIA,0,2,31,547,775,1214.61,1431,1512.275,1918.15,2012.3
+concrete,residential multi-family,masonry structure,ASIA_IDN,ASIA,0,3,53,547,801.2,970,1089,1517,2139.976864,2613.942161
+concrete,residential single family,masonry structure,ASIA_IDN,ASIA,10,2,52,0,0,4.4,286.25,978.75,1441.32,1517
+concrete,non-residential,steel frame structure,ASIA_IDN,ASIA,0,3,37,108,108,301.6666667,496,529,1033,1645
+concrete,residential multi-family,steel frame structure,ASIA_IDN,ASIA,0,4,31,108,134.036637,677.1673282,746.198407,1219,1689,1689
+concrete,residential single family,steel frame structure,ASIA_IDN,ASIA,0,4,27,108,108,461,880,1294,1689,1689
+concrete,non-residential,timber structure,ASIA_IDN,ASIA,0,3,43,5.15,7.629,82.25,247.12,412.5,941.6233084,1089
+concrete,residential multi-family,timber structure,ASIA_IDN,ASIA,0,4,54,0,0,7.8,97.26086957,302.25,1096.875,1111.5
+concrete,residential single family,timber structure,ASIA_IDN,ASIA,0,3,157,0,0,173.4672658,331.6506595,461.6073195,903.9890405,1563.192889
+brick,non-residential,reinforced concrete structure,ASIA_IDN,ASIA,0,1,38,0,0.119,133.3,288.215,385.0725,664.8452033,833
+brick,residential multi-family,reinforced concrete structure,ASIA_IDN,ASIA,0,2,46,0,14,82,205.591503,595.25,812.075,1013
+brick,residential single family,reinforced concrete structure,ASIA_IDN,ASIA,0,2,36,0,13.75,107,329.2,646.55,810,855
+brick,non-residential,masonry structure,ASIA_IDN,ASIA,0,2,31,36,182,541,570,716.975,854.28,960
+brick,residential multi-family,masonry structure,ASIA_IDN,ASIA,0,3,44,280,320,373.75,609,705,1657.85,1781
+brick,residential single family,masonry structure,ASIA_IDN,ASIA,10,2,52,0,0,0,335,529.15,1690,2190
+brick,non-residential,steel frame structure,ASIA_IDN,ASIA,0,3,11,32.66666667,32.75833334,37.23,117,148.5,180,180
+brick,residential multi-family,steel frame structure,ASIA_IDN,ASIA,0,4,21,14.6,14.6,16,107,174,180,180
+brick,residential single family,steel frame structure,ASIA_IDN,ASIA,0,4,21,14.6,14.6,16,107,174,180,180
+brick,non-residential,timber structure,ASIA_IDN,ASIA,0,3,42,0,0.384,18.67,80,374.7425,1080.967,1092.86
+brick,residential multi-family,timber structure,ASIA_IDN,ASIA,0,4,45,0,0,12.28,68.47946781,263,855,855
+brick,residential single family,timber structure,ASIA_IDN,ASIA,0,3,87,0,0,12.94,58.01387412,112.9982193,855,2390
+wood,non-residential,reinforced concrete structure,ASIA_IDN,ASIA,0,1,31,0,0.13,1.850621704,6.05,21,28.5,31
+wood,residential multi-family,reinforced concrete structure,ASIA_IDN,ASIA,0,2,41,0.66,8,14.9,21.6,26,54.65447154,86
+wood,residential single family,reinforced concrete structure,ASIA_IDN,ASIA,0,1,31,9.27,13,20,22,26,31.55,86
+wood,non-residential,masonry structure,ASIA_IDN,ASIA,0,3,70,1,10.28,14.79,24,37.84422938,145.3,192
+wood,residential multi-family,masonry structure,ASIA_IDN,ASIA,0,3,55,1,7,15.75,21.85,24,110.9,192
+wood,residential single family,masonry structure,ASIA_IDN,ASIA,12,2,64,5.805555556,6.871917808,23.5,40,131,159.8,161.5
+wood,non-residential,steel frame structure,ASIA_IDN,ASIA,0,3,29,0,0.6,11,11,18,61,61
+wood,residential multi-family,steel frame structure,ASIA_IDN,ASIA,0,5,42,4,8.5,20,22,43.99687742,61,61
+wood,residential single family,steel frame structure,ASIA_IDN,ASIA,0,4,27,4,7.65,20,22,26,61,61
+wood,non-residential,timber structure,ASIA_IDN,ASIA,0,3,31,0,0,0.21,1,88,293.5,480
+wood,residential multi-family,timber structure,ASIA_IDN,ASIA,0,4,58,0.21,0.21,24.65,71.58849753,105.8399439,266.6635,480
+wood,residential single family,timber structure,ASIA_IDN,ASIA,0,3,164,0.21,21.2,58.82067158,73.22345415,99.49831916,185.6347614,868.96
+steel,non-residential,reinforced concrete structure,ASIA_IDN,ASIA,0,1,41,0,19,43,66,92.44,140.92,230.1166667
+steel,residential multi-family,reinforced concrete structure,ASIA_IDN,ASIA,0,2,58,0.09,4.596404,18.2,43.3,65.40991854,80.95,97.1
+steel,residential single family,reinforced concrete structure,ASIA_IDN,ASIA,0,1,31,5,15.15,15.6,17.69,21.2,21.4,35.54
+steel,non-residential,masonry structure,ASIA_IDN,ASIA,0,2,31,0.09,13,24.72,26,35.75,63.31,68.62
+steel,residential multi-family,masonry structure,ASIA_IDN,ASIA,0,2,30,0,1,11,16.26,24.6,260.4065091,374.2982663
+steel,residential single family,masonry structure,ASIA_IDN,ASIA,10,2,60,0,3.85,16.39,27,34,47.34018265,62.63807667
+steel,non-residential,steel frame structure,ASIA_IDN,ASIA,0,3,27,8,8,117.5,142,145,280.9,325
+steel,residential multi-family,steel frame structure,ASIA_IDN,ASIA,0,4,35,3.822223696,7.023493312,32,71,107.5036075,134.1594944,165
+steel,residential single family,steel frame structure,ASIA_IDN,ASIA,0,4,33,8,8,32,71,125,165,178
+steel,non-residential,timber structure,ASIA_IDN,ASIA,0,3,42,0,0,0,0.94,5,72.75,102
+steel,residential multi-family,timber structure,ASIA_IDN,ASIA,0,4,50,0,0.09,1.5,8.03,42.01974195,79,428
+steel,residential single family,timber structure,ASIA_IDN,ASIA,0,3,146,0,0.09,1.472052414,5.358499936,12.33927713,64.75,148.8947407
+glass,non-residential,reinforced concrete structure,ASIA_IDN,ASIA,0,1,40,0,0,0.0525,2,2.796474101,7.5,8.65
+glass,residential multi-family,reinforced concrete structure,ASIA_IDN,ASIA,0,2,46,0.05,0.4375,1.75,2,2,2.253521127,2.337145791
+glass,residential single family,reinforced concrete structure,ASIA_IDN,ASIA,0,2,36,0.05,0.22,1.6,2,2,2.29977258,2.599090318
+glass,non-residential,masonry structure,ASIA_IDN,ASIA,0,2,31,0.13,1.71,2,2,2.18,2.725,2.77
+glass,residential multi-family,masonry structure,ASIA_IDN,ASIA,2,3,51,0,0.19,0.729411765,1.58,2,4.958452737,7.816905474
+glass,residential single family,masonry structure,ASIA_IDN,ASIA,12,1,40,0,0.7725,0.881767242,1.3,2,6.2,6.2
+glass,non-residential,steel frame structure,ASIA_IDN,ASIA,0,3,25,0,1,1,1,2.3,7.829333333,8.37
+glass,residential multi-family,steel frame structure,ASIA_IDN,ASIA,0,4,25,0,0.213333333,2,2,2.3,4.935447575,5.666666667
+glass,residential single family,steel frame structure,ASIA_IDN,ASIA,0,3,15,0,0.7,2,2,2.15,3.8,5.666666667
+glass,non-residential,timber structure,ASIA_IDN,ASIA,0,3,27,0,0,0,0,0.34,2,3.1
+glass,residential multi-family,timber structure,ASIA_IDN,ASIA,0,4,41,0.13,0.13,0.25,1.889102373,4,6.564498993,8.74
+glass,residential single family,timber structure,ASIA_IDN,ASIA,0,3,124,0.03447015,0.148,1.644620869,2.286017514,5.786343562,9.985087654,119.8062016
+plastics,non-residential,reinforced concrete structure,ASIA_IDN,ASIA,0,1,186,0,0.183568976,0.392123531,1.199406238,2.996809004,14.334963,55.46
+plastics,residential multi-family,reinforced concrete structure,ASIA_IDN,ASIA,0,1,186,0,0.183568976,0.392123531,1.199406238,2.996809004,14.334963,55.46
+plastics,residential single family,reinforced concrete structure,ASIA_IDN,ASIA,0,1,186,0,0.183568976,0.392123531,1.199406238,2.996809004,14.334963,55.46
+plastics,non-residential,masonry structure,ASIA_IDN,ASIA,0,1,186,0,0.183568976,0.392123531,1.199406238,2.996809004,14.334963,55.46
+plastics,residential multi-family,masonry structure,ASIA_IDN,ASIA,0,1,186,0,0.183568976,0.392123531,1.199406238,2.996809004,14.334963,55.46
+plastics,residential single family,masonry structure,ASIA_IDN,ASIA,0,1,186,0,0.183568976,0.392123531,1.199406238,2.996809004,14.334963,55.46
+plastics,non-residential,steel frame structure,ASIA_IDN,ASIA,0,1,186,0,0.183568976,0.392123531,1.199406238,2.996809004,14.334963,55.46
+plastics,residential multi-family,steel frame structure,ASIA_IDN,ASIA,0,1,186,0,0.183568976,0.392123531,1.199406238,2.996809004,14.334963,55.46
+plastics,residential single family,steel frame structure,ASIA_IDN,ASIA,0,1,186,0,0.183568976,0.392123531,1.199406238,2.996809004,14.334963,55.46
+plastics,non-residential,timber structure,ASIA_IDN,ASIA,0,1,186,0,0.183568976,0.392123531,1.199406238,2.996809004,14.334963,55.46
+plastics,residential multi-family,timber structure,ASIA_IDN,ASIA,0,1,186,0,0.183568976,0.392123531,1.199406238,2.996809004,14.334963,55.46
+plastics,residential single family,timber structure,ASIA_IDN,ASIA,0,1,186,0,0.183568976,0.392123531,1.199406238,2.996809004,14.334963,55.46
+aluminium,non-residential,reinforced concrete structure,ASIA_IDN,ASIA,0,1,153,0,0.057313373,0.129544509,0.49,1.07,4.8205,14.45414352
+aluminium,residential multi-family,reinforced concrete structure,ASIA_IDN,ASIA,0,1,153,0,0.057313373,0.129544509,0.49,1.07,4.8205,14.45414352
+aluminium,residential single family,reinforced concrete structure,ASIA_IDN,ASIA,0,1,153,0,0.057313373,0.129544509,0.49,1.07,4.8205,14.45414352
+aluminium,non-residential,masonry structure,ASIA_IDN,ASIA,0,1,153,0,0.057313373,0.129544509,0.49,1.07,4.8205,14.45414352
+aluminium,residential multi-family,masonry structure,ASIA_IDN,ASIA,2,1,155,0,0.057637543,0.139066441,0.483703181,1.069004654,4.80725,14.45414352
+aluminium,residential single family,masonry structure,ASIA_IDN,ASIA,0,1,153,0,0.057313373,0.129544509,0.49,1.07,4.8205,14.45414352
+aluminium,non-residential,steel frame structure,ASIA_IDN,ASIA,0,1,153,0,0.057313373,0.129544509,0.49,1.07,4.8205,14.45414352
+aluminium,residential multi-family,steel frame structure,ASIA_IDN,ASIA,0,1,153,0,0.057313373,0.129544509,0.49,1.07,4.8205,14.45414352
+aluminium,residential single family,steel frame structure,ASIA_IDN,ASIA,0,1,153,0,0.057313373,0.129544509,0.49,1.07,4.8205,14.45414352
+aluminium,non-residential,timber structure,ASIA_IDN,ASIA,0,1,153,0,0.057313373,0.129544509,0.49,1.07,4.8205,14.45414352
+aluminium,residential multi-family,timber structure,ASIA_IDN,ASIA,0,1,153,0,0.057313373,0.129544509,0.49,1.07,4.8205,14.45414352
+aluminium,residential single family,timber structure,ASIA_IDN,ASIA,0,1,153,0,0.057313373,0.129544509,0.49,1.07,4.8205,14.45414352
+copper,non-residential,reinforced concrete structure,ASIA_IDN,ASIA,0,1,81,0.007686731,0.019166744,0.083901938,0.182895495,0.266526296,1.056,9
+copper,residential multi-family,reinforced concrete structure,ASIA_IDN,ASIA,0,1,81,0.007686731,0.019166744,0.083901938,0.182895495,0.266526296,1.056,9
+copper,residential single family,reinforced concrete structure,ASIA_IDN,ASIA,0,1,81,0.007686731,0.019166744,0.083901938,0.182895495,0.266526296,1.056,9
+copper,non-residential,masonry structure,ASIA_IDN,ASIA,0,1,81,0.007686731,0.019166744,0.083901938,0.182895495,0.266526296,1.056,9
+copper,residential multi-family,masonry structure,ASIA_IDN,ASIA,0,1,81,0.007686731,0.019166744,0.083901938,0.182895495,0.266526296,1.056,9
+copper,residential single family,masonry structure,ASIA_IDN,ASIA,0,1,81,0.007686731,0.019166744,0.083901938,0.182895495,0.266526296,1.056,9
+copper,non-residential,steel frame structure,ASIA_IDN,ASIA,0,1,81,0.007686731,0.019166744,0.083901938,0.182895495,0.266526296,1.056,9
+copper,residential multi-family,steel frame structure,ASIA_IDN,ASIA,0,1,81,0.007686731,0.019166744,0.083901938,0.182895495,0.266526296,1.056,9
+copper,residential single family,steel frame structure,ASIA_IDN,ASIA,0,1,81,0.007686731,0.019166744,0.083901938,0.182895495,0.266526296,1.056,9
+copper,non-residential,timber structure,ASIA_IDN,ASIA,0,1,81,0.007686731,0.019166744,0.083901938,0.182895495,0.266526296,1.056,9
+copper,residential multi-family,timber structure,ASIA_IDN,ASIA,0,1,81,0.007686731,0.019166744,0.083901938,0.182895495,0.266526296,1.056,9
+copper,residential single family,timber structure,ASIA_IDN,ASIA,0,1,81,0.007686731,0.019166744,0.083901938,0.182895495,0.266526296,1.056,9
